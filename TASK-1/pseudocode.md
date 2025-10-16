@@ -531,4 +531,5 @@ hepsini kapsıyor.
 
 İstersen bir sonraki adımda Python veya Java ile çalışır versiyonunu da yazıp doğrudan simüle edebiliriz.
 
+
 Bunu yapayım mı?
